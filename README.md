@@ -1,2 +1,2 @@
 # GPIO
-En esta repositorio veremos veremos la forma en la que operan y se configuran los pines de propósito general (GPIO) de la Rasperry. 
+Este proyecto tiene como objetivo introducir el uso y configuración de los pines de propósito general (GPIO) de una Raspberry Pi, enfocándose en su funcionamiento como salidas digitales y con ayuda de python.
