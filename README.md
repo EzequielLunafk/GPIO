@@ -4,5 +4,7 @@ Este proyecto tiene como objetivo introducir el uso y configuración de los pine
 Para ver mas información del proyecto consulta el wiki https://github.com/EzequielLunafk/GPIO/wiki
 
 Ezequiel Luna Trejo A01738153
+
 Iñaki Ahedo Madrid A01
+
 Edwing
