@@ -5,6 +5,6 @@ Para ver mas información del proyecto consulta el wiki https://github.com/Ezequ
 
 Ezequiel Luna Trejo A01738153
 
-Iñaki Ahedo Madrid A01
+Iñaki Ahedo Madrid A01738231
 
-Edwing
+Edwin Emmanuel Salazar Meza A01738380
